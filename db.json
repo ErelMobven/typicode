@@ -1,17 +1,19 @@
-[
-  {
-    "key" : "english",
-    "en"  : "English",
-    "tr"  : "İngilizce"
-  },
-  {
-    "key" : "turkish",
-    "en"  : "Turkish",
-    "tr"  : "Türkçe"
-  },
-  {
-    "key" : "language_selection",
-    "en"  : "Language Selection",
-    "tr"  : "Dil Seçimi"
-  }
-]
+{
+  "tags" : [
+    {
+      "key" : "english",
+      "en"  : "English",
+      "tr"  : "İngilizce"
+    },
+    {
+      "key" : "turkish",
+      "en"  : "Turkish",
+      "tr"  : "Türkçe"
+    },
+    {
+      "key" : "language_selection",
+      "en"  : "Language Selection",
+      "tr"  : "Dil Seçimi"
+    }
+  ]
+}
