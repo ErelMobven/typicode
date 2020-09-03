@@ -3,17 +3,17 @@
     {
       "key" : "english",
       "en"  : "English",
-      "tr"  : "İngilizce"
+      "tr"  : "Anglisht"
     },
     {
       "key" : "turkish",
       "en"  : "Turkish",
-      "tr"  : "Türkçe"
+      "tr"  : "Shqip"
     },
     {
       "key" : "language_selection",
       "en"  : "Language Selection",
-      "tr"  : "Dil Seçimi"
+      "tr"  : "Përzgjedhja e gjuhës"
     }
   ]
 }
