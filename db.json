@@ -1,6 +1,12 @@
 {
   "tags" : [
     {
+      "key" : "english",
+      "en"  : "English",
+      "tr"  : "İngilizce",
+      "sq"  : "Angleze"
+    },
+    {
       "key" : "turkish",
       "en"  : "Turkish",
       "tr"  : "Türkçe",
