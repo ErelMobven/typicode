@@ -1,19 +1,22 @@
 {
   "tags" : [
     {
-      "key" : "english",
-      "en"  : "English",
-      "tr"  : "Anglisht"
-    },
-    {
       "key" : "turkish",
       "en"  : "Turkish",
-      "tr"  : "Shqip"
+      "tr"  : "Türkçe",
+      "sq"  : "Turke"
+    },
+    {
+      "key" : "albanian",
+      "en"  : "Albanian",
+      "tr"  : "Arnavutça",
+      "sq"  : "Shqip"
     },
     {
       "key" : "language_selection",
       "en"  : "Language Selection",
-      "tr"  : "Përzgjedhja e gjuhës"
+      "tr"  : "Dil Seçimi",
+      "sq"  : "Përzgjedhja e Gjuhës"
     }
   ]
 }
