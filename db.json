@@ -24,5 +24,11 @@
       "tr"  : "Dil Seçimi",
       "sq"  : "Përzgjedhja e Gjuhës"
     }
+  ],
+  "versions" : [
+    {
+      "code" : 4,
+      "path"  : "https://dl.dropboxusercontent.com/s/smndgy1krglt02t/app-prod-release.apk"
+    }
   ]
 }
