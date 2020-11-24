@@ -27,8 +27,8 @@
   ],
   "versions" : [
     {
-      "code" : 4,
-      "path"  : "https://dl.dropboxusercontent.com/s/a4ztjtkzb2oogac/app-prod-debug.apk"
+      "code" : 3,
+      "path"  : "https://dl.dropboxusercontent.com/s/smndgy1krglt02t/app-prod-release.apk"
     }
   ]
 }
